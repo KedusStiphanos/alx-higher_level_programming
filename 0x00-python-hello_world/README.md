@@ -1,2 +1,1 @@
-Hi I just Started Pytho
-Thank God
+0x00. Python - Hello, World
