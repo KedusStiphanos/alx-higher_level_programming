@@ -1,3 +1,5 @@
 #!/usr/bin/python3
+s=''
 for character in range(97, 123):
-    print("{:c}".format(character), end='')
+    s += "{:c}".format(character)
+print(s)
